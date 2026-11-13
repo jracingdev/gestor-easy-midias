@@ -1,0 +1,134 @@
+[
+ [
+  "n01",
+  "Neste vídeo você vai ver, passo a passo, como cadastrar um produto completo no Gestor Easy. O exemplo é um kit relação para a Honda cê gê cento e sessenta, e vamos passar por todas as abas do cadastro."
+ ],
+ [
+  "n02",
+  "No menu Produtos e Serviços, clique em Criar. No canto de cima você escolhe o tipo do item: produto, serviço ou kit. Como o kit relação junta coroa, pinhão e corrente, escolhemos Kits e Combos, e aparece a aba Composição do Kit."
+ ],
+ [
+  "n03",
+  "A aba Cadastro começa pela representada, que é a empresa dona do produto. Aqui é a própria loja. Controlar estoque fica ligado, e a comissão da marca fica em branco, para usar o padrão da representada."
+ ],
+ [
+  "n04",
+  "Agora o código interno, que pode ser gerado pelo botão Gerar, e o nome completo, com modelo da moto, relação de dentes e marca. Na classificação, marcamos Revenda."
+ ],
+ [
+  "n05",
+  "Em seguida, o código de barras do produto e o tributável, a embalagem de venda, a marca e a referência de fábrica, que ajuda o balcão a achar a peça pelo código do fornecedor."
+ ],
+ [
+  "n06",
+  "O fornecedor manda em caixas com dez kits. Na conversão de unidade, uma caixa comprada vira dez unidades no estoque, e a nota de entrada já faz essa conta sozinha."
+ ],
+ [
+  "n07",
+  "Peso e medidas da embalagem são usados no cálculo de frete dos Correios e dos marketplaces."
+ ],
+ [
+  "n08",
+  "Unidade kit. No kit, o estoque é controlado pelos componentes, por isso o estoque atual fica em zero. O estoque mínimo dispara o aviso de reposição, e a captura de peso na balança, que é para itens a granel, fica desligada."
+ ],
+ [
+  "n09",
+  "Em Status, o produto fica ativo no catálogo. Se um dia precisar segurar a venda, por recall ou divergência fiscal, é só marcar Bloquear venda e escolher o motivo. Aqui deixamos liberado."
+ ],
+ [
+  "n10",
+  "Por fim, a categoria Transmissão, a descrição que vai para a vitrine e uma observação interna para a equipe."
+ ],
+ [
+  "n11",
+  "Como é um kit, montamos a composição antes do preço: uma coroa de quarenta e três dentes, um pinhão de quatorze e uma corrente com retentor. Também marcamos a opção de expandir os componentes na venda."
+ ],
+ [
+  "n12",
+  "Na Precificação, o preço de compra do kit vem sozinho, somando o custo de cada componente. O preço de custo vai subindo conforme entram as despesas e os impostos que não são recuperáveis."
+ ],
+ [
+  "n13",
+  "No atacado, a caixa tem dez unidades, e a partir de uma caixa vale o preço de atacado."
+ ],
+ [
+  "n14",
+  "Na composição de custos entram frete, seguro e custo operacional, em reais ou em porcentagem, as comissões de vendedor, técnico e representante, e outras despesas."
+ ],
+ [
+  "n15",
+  "Nos impostos, marcamos o que não é recuperável para somar ao custo: a substituição tributária, o IPI e o FCP pagos na compra. PIS e COFINS vêm da aba Tributação. IBS e CBS, da reforma tributária, já têm os percentuais de dois mil e vinte e seis."
+ ],
+ [
+  "n16",
+  "Com o custo completo, informamos o márcap de oitenta e cinco por cento. O sistema calcula o preço de venda e a margem, e o resumo mostra o custo, o lucro bruto e a margem líquida depois das comissões."
+ ],
+ [
+  "n17",
+  "Na aba Mídia, enviamos a foto principal e mais quatro fotos, e colamos o link do vídeo no YouTube."
+ ],
+ [
+  "n18",
+  "No e-commerce, o produto aparece na loja virtual e em destaque, com preço próprio para o site, ordem de exibição e os campos de SEO para o Google."
+ ],
+ [
+  "n19",
+  "Em Depósito e Gôndola, escolhemos o depósito e o endereço do WMS, e zona, rua, prateleira e nível são preenchidos sozinhos. Também informamos a quantidade exposta na gôndola."
+ ],
+ [
+  "n20",
+  "O controle de DOT é só para pneus. Já o controle de lote fica ligado, para rastrear recall, com o prazo de validade em dias."
+ ],
+ [
+  "n21",
+  "Na Tributação, informamos o NCM e o CEST de peças de moto. O ICMS é o CST sessenta, cobrado antes por substituição tributária. O cê benef só é usado quando existe benefício fiscal."
+ ],
+ [
+  "n22",
+  "PIS e COFINS ficam no CST zero quatro, monofásico na revenda, com alíquota zero. A origem é nacional com até quarenta por cento de conteúdo importado, por isso informamos o número da FCI."
+ ],
+ [
+  "n23",
+  "CFOP de entrada um quatro zero três e de saída cinco quatro zero cinco, as duas com ésse tê. E marcamos o DIFAL, para as vendas a consumidor de outros estados, com doze por cento de ICMS interestadual."
+ ],
+ [
+  "n24",
+  "Na parte da reforma, escolhemos o grupo tributário e o cê class trib zero zero zero zero zero um, tributação integral de IBS e CBS. Imposto Seletivo e crédito presumido não se aplicam a esta peça."
+ ],
+ [
+  "n25",
+  "No ésse tê por u éfe, informamos o percentual de ésse tê de cada estado de destino. Ele serve de referência na simulação dos marketplaces."
+ ],
+ [
+  "n26",
+  "A aba Origem e NF-e mostra os dados da nota do fornecedor quando o produto entra por XML. Como este cadastro é manual, ela só explica como vincular a nota depois."
+ ],
+ [
+  "n27",
+  "Em Rastreabilidade, ficam o número do lote, as datas de fabricação e de validade e o código de agregação da caixa. Esses dados vão para a nota fiscal em caso de recall."
+ ],
+ [
+  "n28",
+  "Na Grade, cadastramos as variações: corrente dourada e corrente preta, cada uma com o próprio SKU e preço."
+ ],
+ [
+  "n29",
+  "Na aba Automotivo, informamos o selo do Inmetro, obrigatório para kit de transmissão de moto. O registro da ANP é só para óleo e lubrificante. Depois, os códigos cruzados: o código original e o similar de outro fabricante."
+ ],
+ [
+  "n30",
+  "Na compatibilidade, adicionamos as motos que usam este kit: cê gê cento e sessenta Titan, Fan e Start. E indicamos um produto substituto, para o balcão oferecer quando faltar estoque."
+ ],
+ [
+  "n31",
+  "Na aba Marketplaces, simulamos o preço e o lucro em cada canal. No Mercado Livre e na Xópi, a comissão vem da tabela do canal. Escolhemos o tipo de anúncio, o frete e a margem desejada, e o sistema mostra o lucro e sugere o preço."
+ ],
+ [
+  "n32",
+  "Tudo pronto. Clicamos em Salvar, e o kit aparece na lista de itens. Abrindo o item, vemos a foto, o preço de compra, o preço de venda e o histórico de preços."
+ ],
+ [
+  "n33",
+  "Este foi o cadastro completo de um produto no Gestor Easy. Conheça mais em erp ponto gestorízi ponto com ponto bê érre."
+ ]
+]
