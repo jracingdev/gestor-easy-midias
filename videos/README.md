@@ -41,6 +41,7 @@ Acervo de todos os vídeos já produzidos do Gestor Easy, para reaproveitar em p
 | 20 | [WMS e estoque](20-wms-estoque/) (planta, endereços com QR, separação, ondas, conferência, kardex, estoque inteligente, endereço no PDV) | 24/11/2026 | 2min29 | pc, celular 1080x1080 e vertical | narrado | agendado 28/11: LinkedIn 11h; IG, FB e TikTok 12h; YouTube 16h |
 | 21 | [ICMS-ST não retido na compra](21-icms-st-antecipacao/) (nota de SP sem ST, cálculo, contador, guia DARJ, contas a pagar) | 24/11/2026 | 3min55 | pc, celular 1080x1080 e vertical | narrado | sem registro de postagem |
 | 22 | [Loja virtual](22-loja-virtual/) (modelos, configurações, produtos do ERP, cupons e banners, frete e Pix no checkout, pedido no ERP com baixa de estoque e fatura, rastreio, análises) | 24/11/2026 | 2min23 | pc, celular 1080x1080 e vertical | narrado | ainda não postado (aguardando o ok) |
+| 23 | [CRM e Leads](23-crm-leads/) (funil de leads, automação que etiqueta e avisa, tarefas de retorno, conversão em negócio, pontuação, funil com previsão, relatório por origem) | 24/11/2026 | 1min54 | pc, celular 1080x1080 e vertical | narrado | ainda não postado (aguardando o ok) |
 
 ## Shorts de campanha
 
