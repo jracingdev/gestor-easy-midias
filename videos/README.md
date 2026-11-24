@@ -31,6 +31,7 @@ Acervo de todos os vídeos já produzidos do Gestor Easy, para reaproveitar em p
 | 11 | [Telegram](11-telegram/) (bot da empresa, alertas, cliente) | 11/11/2026 | 1min01 | pc 1920x1080 e vertical; animação da landing 0min22 | legendado, sem voz | publicado 16/11 19h (Reel, YouTube, TikTok, LinkedIn) |
 | 12 | [Cérebro do Twin](12-twin-cerebro/) (animação da landing) | 12/11/2026 | 0min24 | 960x682 | sem som | na landing page |
 | 13 | [Representantes comerciais](13-representantes-comerciais/) (telas do app) | 11/11/2026 | 0min55 | 1920x1080 | sem som | na landing page |
+| 15 | [Mercado Livre](15-mercado-livre/) (anúncios vinculados, compatibilidade, pedido → fatura, bipagem, atendimento, financeiro, rentabilidade, reputação, risco) | 24/11/2026 | 2min49 | pc e celular 1080x1080 | narrado | sem postagem agendada |
 
 ## Shorts de campanha
 
