@@ -31,6 +31,7 @@ Acervo de todos os vídeos já produzidos do Gestor Easy, para reaproveitar em p
 | 11 | [Telegram](11-telegram/) (bot da empresa, alertas, cliente) | 11/11/2026 | 1min01 | pc 1920x1080 e vertical; animação da landing 0min22 | legendado, sem voz | publicado 16/11 19h (Reel, YouTube, TikTok, LinkedIn) |
 | 12 | [Cérebro do Twin](12-twin-cerebro/) (animação da landing) | 12/11/2026 | 0min24 | 960x682 | sem som | na landing page |
 | 13 | [Representantes comerciais](13-representantes-comerciais/) (telas do app) | 11/11/2026 | 0min55 | 1920x1080 | sem som | na landing page |
+| 16 | [Shopee](16-shopee/) (anúncio com "Quanto você recebe", pedidos, venda no ERP, NF-e automática e em lote com aceite da Shopee, etiquetas, cancelamento, repasses, devoluções) | 24/11/2026 | 2min20 | pc, celular 1080x1080 e vertical | narrado | sem registro de postagem |
 | 20 | [WMS e estoque](20-wms-estoque/) (planta, endereços com QR, separação, ondas, conferência, kardex, estoque inteligente, endereço no PDV) | 24/11/2026 | 2min29 | pc, celular 1080x1080 e vertical | narrado | ainda não postado (aguardando o ok) |
 
 ## Shorts de campanha
