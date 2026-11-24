@@ -35,7 +35,7 @@ Acervo de todos os vídeos já produzidos do Gestor Easy, para reaproveitar em p
 | 17 | [Financeiro](17-financeiro/) (fatura, Pix, boleto, remessa CNAB, contas a pagar, inadimplência) | 24/11/2026 | 2min15 | pc, celular 1080x1080 e vertical | narrado | ainda não postado |
 | 16 | [Shopee](16-shopee/) (anúncio com "Quanto você recebe", pedidos, venda no ERP, NF-e automática e em lote com aceite da Shopee, etiquetas, cancelamento, repasses, devoluções) | 24/11/2026 | 2min20 | pc, celular 1080x1080 e vertical | narrado | sem registro de postagem |
 | 18 | [WhatsApp no ERP](18-whatsapp/) (conversas, copiloto IA, Kanban, chatbot, cobrança, campanhas, Régua de Relacionamento) | 24/11/2026 | 2min15 | pc e celular 1080x1080, vertical 1080x1920 | narrado | sem postagem agendada |
-| 20 | [WMS e estoque](20-wms-estoque/) (planta, endereços com QR, separação, ondas, conferência, kardex, estoque inteligente, endereço no PDV) | 24/11/2026 | 2min29 | pc, celular 1080x1080 e vertical | narrado | ainda não postado (aguardando o ok) |
+| 20 | [WMS e estoque](20-wms-estoque/) (planta, endereços com QR, separação, ondas, conferência, kardex, estoque inteligente, endereço no PDV) | 24/11/2026 | 2min29 | pc, celular 1080x1080 e vertical | narrado | agendado 28/11: LinkedIn 11h; IG, FB e TikTok 12h; YouTube 16h |
 | 21 | [ICMS-ST não retido na compra](21-icms-st-antecipacao/) (nota de SP sem ST, cálculo, contador, guia DARJ, contas a pagar) | 24/11/2026 | 3min55 | pc, celular 1080x1080 e vertical | narrado | sem registro de postagem |
 
 ## Shorts de campanha
