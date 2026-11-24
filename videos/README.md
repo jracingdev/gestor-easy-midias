@@ -33,6 +33,7 @@ Acervo de todos os vídeos já produzidos do Gestor Easy, para reaproveitar em p
 | 13 | [Representantes comerciais](13-representantes-comerciais/) (telas do app) | 11/11/2026 | 0min55 | 1920x1080 | sem som | na landing page |
 | 18 | [WhatsApp no ERP](18-whatsapp/) (conversas, copiloto IA, Kanban, chatbot, cobrança, campanhas, Régua de Relacionamento) | 24/11/2026 | 2min15 | pc e celular 1080x1080, vertical 1080x1920 | narrado | sem postagem agendada |
 | 20 | [WMS e estoque](20-wms-estoque/) (planta, endereços com QR, separação, ondas, conferência, kardex, estoque inteligente, endereço no PDV) | 24/11/2026 | 2min29 | pc, celular 1080x1080 e vertical | narrado | ainda não postado (aguardando o ok) |
+| 21 | [ICMS-ST não retido na compra](21-icms-st-antecipacao/) (nota de SP sem ST, cálculo, contador, guia DARJ, contas a pagar) | 24/11/2026 | 3min55 | pc, celular 1080x1080 e vertical | narrado | sem registro de postagem |
 
 ## Shorts de campanha
 
