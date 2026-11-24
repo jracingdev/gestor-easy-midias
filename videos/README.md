@@ -32,8 +32,12 @@ Acervo de todos os vídeos já produzidos do Gestor Easy, para reaproveitar em p
 | 12 | [Cérebro do Twin](12-twin-cerebro/) (animação da landing) | 12/11/2026 | 0min24 | 960x682 | sem som | na landing page |
 | 13 | [Representantes comerciais](13-representantes-comerciais/) (telas do app) | 11/11/2026 | 0min55 | 1920x1080 | sem som | na landing page |
 | 14 | [Notas fiscais](14-notas-fiscais/) (NF-e, NFC-e e NFS-e nacional com IBS/CBS, prévia sem enviar, XML para o contador) | 24/11/2026 | 3min19 (pc) e 3min21 (celular) | pc e celular 1080x1080 | narrado | ainda não postado |
+| 15 | [Mercado Livre](15-mercado-livre/) (anúncios vinculados, compatibilidade, pedido → fatura, bipagem, atendimento, financeiro, rentabilidade, reputação, risco) | 24/11/2026 | 2min49 | pc e celular 1080x1080 | narrado | sem postagem agendada |
+| 16 | [Shopee](16-shopee/) (anúncio com "Quanto você recebe", pedidos, venda no ERP, NF-e automática e em lote com aceite da Shopee, etiquetas, cancelamento, repasses, devoluções) | 24/11/2026 | 2min20 | pc, celular 1080x1080 e vertical | narrado | sem registro de postagem |
+| 17 | [Financeiro](17-financeiro/) (fatura, Pix, boleto, remessa CNAB, contas a pagar, inadimplência) | 24/11/2026 | 2min15 | pc, celular 1080x1080 e vertical | narrado | ainda não postado |
 | 18 | [WhatsApp no ERP](18-whatsapp/) (conversas, copiloto IA, Kanban, chatbot, cobrança, campanhas, Régua de Relacionamento) | 24/11/2026 | 2min15 | pc e celular 1080x1080, vertical 1080x1920 | narrado | sem postagem agendada |
 | 20 | [WMS e estoque](20-wms-estoque/) (planta, endereços com QR, separação, ondas, conferência, kardex, estoque inteligente, endereço no PDV) | 24/11/2026 | 2min29 | pc, celular 1080x1080 e vertical | narrado | ainda não postado (aguardando o ok) |
+| 21 | [ICMS-ST não retido na compra](21-icms-st-antecipacao/) (nota de SP sem ST, cálculo, contador, guia DARJ, contas a pagar) | 24/11/2026 | 3min55 | pc, celular 1080x1080 e vertical | narrado | sem registro de postagem |
 
 ## Shorts de campanha
 
