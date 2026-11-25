@@ -44,6 +44,7 @@ Acervo de todos os vídeos já produzidos do Gestor Easy, para reaproveitar em p
 | 23 | [CRM e Leads](23-crm-leads/) (funil de leads, automação que etiqueta e avisa, tarefas de retorno, conversão em negócio, pontuação, funil com previsão, relatório por origem) | 24/11/2026 | 1min54 | pc, celular 1080x1080 e vertical | narrado | ainda não postado (aguardando o ok) |
 | 24 | [Cashback e Metas](24-cashback-metas/) (regras por categoria, campanhas, cashback usado e gerado no caixa, bônus, extrato, relatórios, painel de metas com projeção, meta por vendedor com sugestão, produtos x meta) | 24/11/2026 | 2min22 | pc, celular 1080x1080 e vertical | narrado | ainda não postado (aguardando o ok) |
 | 25 | [Catálogo por aplicação + Gestor Y 3D](25-catalogo-aplicacao/) (aplicação e códigos cruzados no cadastro, filtro por moto e ano, Busca Inteligente, catálogo para o cliente com PDF, link com QR e WhatsApp, NMAX 160 em 3D com conjunto explodido, estoque, preço e orçamento) | 25/11/2026 | 2min15 | pc, celular 1080x1080 e vertical | narrado | ainda não postado (aguardando o ok) |
+| 26 | [Locadora de motos e carros](26-locadora/) (frota com documentos, catálogo on-line com pedido de reserva, pedido virando contrato, contrato no balcão, checklist de saída, pagamentos, devolução, débitos pela placa com multa nova lançada no locatário, consulta automática, relatórios) | 25/11/2026 | 2min33 | pc, celular 1080x1080 e vertical | narrado | ainda não postado (aguardando o ok) |
 
 ## Shorts de campanha
 
