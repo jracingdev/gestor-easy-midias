@@ -43,6 +43,7 @@ Acervo de todos os vídeos já produzidos do Gestor Easy, para reaproveitar em p
 | 22 | [Loja virtual](22-loja-virtual/) (modelos, configurações, produtos do ERP, cupons e banners, frete e Pix no checkout, pedido no ERP com baixa de estoque e fatura, rastreio, análises) | 24/11/2026 | 2min23 | pc, celular 1080x1080 e vertical | narrado | ainda não postado (aguardando o ok) |
 | 23 | [CRM e Leads](23-crm-leads/) (funil de leads, automação que etiqueta e avisa, tarefas de retorno, conversão em negócio, pontuação, funil com previsão, relatório por origem) | 24/11/2026 | 1min54 | pc, celular 1080x1080 e vertical | narrado | ainda não postado (aguardando o ok) |
 | 24 | [Cashback e Metas](24-cashback-metas/) (regras por categoria, campanhas, cashback usado e gerado no caixa, bônus, extrato, relatórios, painel de metas com projeção, meta por vendedor com sugestão, produtos x meta) | 24/11/2026 | 2min22 | pc, celular 1080x1080 e vertical | narrado | ainda não postado (aguardando o ok) |
+| 25 | [Catálogo por aplicação + Gestor Y 3D](25-catalogo-aplicacao/) (aplicação e códigos cruzados no cadastro, filtro por moto e ano, Busca Inteligente, catálogo para o cliente com PDF, link com QR e WhatsApp, NMAX 160 em 3D com conjunto explodido, estoque, preço e orçamento) | 25/11/2026 | 2min15 | pc, celular 1080x1080 e vertical | narrado | ainda não postado (aguardando o ok) |
 
 ## Shorts de campanha
 
